@@ -1,3 +1,4 @@
+import math
 def convex_func_lin (x, pts , val):
     #pts= points in interval [0,1]
     #example pts= [.2,.3,.4,.5]
@@ -20,6 +21,13 @@ def convex_func_lin (x, pts , val):
         i+=1
     value=((val[i]-val[i-1])*x + (val[i-1]*pts[i] - val[i]*pts[i-1]))/(pts[i]-pts[i-1])
     return value
+
+def convex_func_smooth(x,a):
+    # we use the cosine convex, one can use other convex smooth functions
+    if a<1:
+        raise "a should be atleast 1"
+    return math.cos(math.pi/2 * x**a)
+
     
             
             
