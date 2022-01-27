@@ -6,7 +6,7 @@ For dynamically convex pseudo-rotations it can be shown from a result of Ginzbur
 Here we show computationally using Gutt-Hutchings capacities that toric domains (other than ellipsoids) are counter-examples to above phenomenum. While convex toric domains are dynamically convex, ellipsoids are only examples of pseudo-rotations. This suggests these differences converges to zero if and only if the Reeb flow is a pseudo-rotation.
 
 
-We will explore concave toric domains and explore computational estimate of the above difference.
+We will explore concave toric domains and explore computational estimate of the above difference in a further commit.
 
 ## References:
 
