@@ -1,6 +1,6 @@
 import numpy as np
 
-def GH_capacities_conv(it,x,f):
+def GH_capacities_convex(it,x,f):
     # computing Gutt-Hutchings capacities upto it iterations for convex toric domains
     cap=[]
     for n in range(1,it+1):
