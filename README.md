@@ -2,13 +2,13 @@
 
 ## Summary: 
 
-For dynamically convex pseudo-rotations it can be shown from a result of Ginzburg-Gurel that there is a subsequence of equivariant capacities whose consecutive differences converges to 0. We believe these differences(which we will call "spectral gap") relate to C0-rigidity of Reeb flow on contact 3d-manifolds.
+For a dynamically convex pseudo-rotation, it can be shown [cf. Ginzburg-Gurel] that there is a subsequence of equivariant capacities whose consecutive differences converge to 0. We believe these differences -henceforth to be referred to as <i>spectral gaps</i> - relate to C0-rigidity of Reeb flow on contact 3d-manifolds.
 
-It is not well known whether they are any Reeb flows where the "spectral gap" is not zero. We show computationally using Gutt-Hutchings capacities that toric domains (other than ellipsoids) are examples of such a phenomenum. 
+It is not known whether there are any Reeb flows where the spectral gap is non-zero. Employing Gutt-Hutchings capacities, we provide computational evidence that toric domains (other than ellipsoids) exhibit such phenomenon. 
 
-While convex toric domains are dynamically convex, ellipsoids are only examples of pseudo-rotations. This suggests for convex case the "spectral gap" converges to zero if and only if the Reeb flow is a pseudo-rotation. We conjecture for smooth convex toric domains(other than ellipsoids), the "spectral gap" always converge to the cube capacity,which is indeed not zero.
+While convex toric domains are dynamically convex, Reeb flow on ellipsoids are the only examples of pseudo-rotations. This suggests for convex case the spectral gap converges to zero if and only if the Reeb flow is a pseudo-rotation. We conjecture for smooth convex toric domains (other than ellipsoids) that the spectral gap always converge to the cube capacity, which therefore is indeed not zero.
 
-We did similar calculations for concave toric domains. And it turns out the conjecture for the convex case stills hold true for the concave domains. Concave toric domains are not dynamically convex, so we believe in the general case(when the flow is not known to be dynamically convex) the "spectral gap" of a Reeb flow converges to zero if and only if it is a psuedo-rotation.
+We did similar calculations for concave toric domains. It turns out that the conjecture for the convex case stills hold true for concave domains. Concave toric domains are not dynamically convex, so we believe in the general case (i.e. when the flow is not known to be dynamically convex) the spectral gap of a Reeb flow converges to zero if and only if it is a psuedo-rotation.
 
 
 ## References:
